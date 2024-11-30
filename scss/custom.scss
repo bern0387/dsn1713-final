@@ -1,0 +1,23 @@
+$primary: #4AB5Cf;
+$secondary:#96E6E6;
+$success: #6977CF;
+$info: #EAE4A3;
+$warning: #ffcc89;
+$danger: #eb809b;
+$light: #ffffff;
+$dark: #000000;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+$navbar-light-color: #EAE4A3;
+$navbar-light-hover-color: #181853;
+$navbar-light-active-color: #EAE4A3;
